@@ -62,7 +62,7 @@ GIF created with ScreenToGif...
 
 ## Notes
 
-N/A.
+None.
 
 ## License
 
