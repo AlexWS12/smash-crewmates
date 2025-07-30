@@ -49,7 +49,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[![Walkthrough](https://i.imgur.com/K9Pb3wj.gif?raw=true)](https://i.imgur.com/K9Pb3wj.gif)
+![Walkthrough](https://i.imgur.com/K9Pb3wj.gif?raw=true)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif...  
