@@ -49,7 +49,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walkthrough](https://i.imgur.com/K9Pb3wj.gif?raw=true)
+[Click here to watch the walkthrough](https://i.imgur.com/13d02vb.gif)
+
+![Walkthrough GIF](https://i.imgur.com/13d02vb.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif...  
@@ -60,7 +62,7 @@ GIF created with ScreenToGif...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A.
 
 ## License
 
